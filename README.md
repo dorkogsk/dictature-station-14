@@ -1,5 +1,4 @@
-заливка
-
+Сборка Corvax
 ## Лицензия
 
 Весь код репозитория лицензирован под [MIT](https://github.com/space-syndicate/space-station-14/blob/master/LICENSE.TXT).
